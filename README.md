@@ -2,5 +2,4 @@
 Study Design-patterns by java
 
 # Creation-Patterns 
-- Factory
-- Factory
+- [Factory Pattern](./factory-pattern/README.md)
