@@ -27,6 +27,7 @@ Study Design-patterns with java
 - Adapter
 - Flyweight
 ## Behavioral Patterns
+- Template Method
 - Observer
 - State
 - Strategy
