@@ -24,7 +24,7 @@ Study Design-patterns with java
 - Bridge
 - Proxy
 - Composite
-- Adapter
+- [Adapter](adapter/README.md)
 - Flyweight
 ## Behavioral Patterns
 - Template Method
